@@ -1,7 +1,8 @@
 # dEagle Memo
 
 Memory game with by dEagle made with React.
-Live: [https://dEagle-memo.netlify.app/](https://deaglememo.netlify.app/)
+# <p align='center'> 🔗 - [_**dEagleMemo**_](https://deaglememo.netlify.app/)</p>
+
 
 ## Features
 
