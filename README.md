@@ -13,11 +13,11 @@ Memory game with by dEagle made with React.
 
 ## Images
 
-<a href="https://deaglegenerator.vercel.app/" target="_blank">
+<a href="https://deaglememo.netlify.app" target="_blank">
   <img src="https://i.imgur.com/e9coOM3.png"> 
 </a>
 
-<a href="https://deaglegenerator.vercel.app/" target="_blank">
+<a href="https://deaglememo.netlify.app" target="_blank">
   <img src="https://i.imgur.com/cGjcL2V.png)"> 
 </a>
 
