@@ -6,7 +6,7 @@ export default function GameOver({highestScore, overlayStyle, modalStyle, resetG
             <div id="game-over-modal" style={modalStyle}>
                 <h2>You lost...</h2>
                 <h3>Higherst Score: {highestScore}</h3>
-                <p>You clicked the same dEagle twice.</p>
+                <p>You clicked the same color twice.</p>
                 <button onClick={resetGame}>Try Again</button>
             </div>
         </div>
