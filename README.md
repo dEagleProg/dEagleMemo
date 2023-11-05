@@ -21,7 +21,7 @@ Choose a new color every time, but don’t repeat yourself, otherwise you’ll l
 </a>
 
 <a href="https://deaglememo.netlify.app" target="_blank">
-  <img src="https://i.imgur.com/cGjcL2V.png)"> 
+  <img src="https://i.imgur.com/cGjcL2V.png"> 
 </a>
 
 
