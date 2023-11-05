@@ -1,8 +1,11 @@
 # dEagle Memo
 
-Memory game with by dEagle made with React.
+Memory game created by dEagle using React.
 # <p align='center'> 🔗 _LIVE_ - [_**dEagleMemo**_](https://deaglememo.netlify.app/)</p>
 
+## Instructions
+
+Choose a new color every time, but don’t repeat yourself, otherwise you’ll lose
 
 ## Features
 
