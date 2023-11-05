@@ -24,4 +24,13 @@ Choose a new color every time, but don’t repeat yourself, otherwise you’ll l
   <img src="https://i.imgur.com/cGjcL2V.png"> 
 </a>
 
+## Developer Instructions
+
+```
+npm install
+npm run dev
+```
+
+## Deployment
+**<p align='center'> Deployed on [_**Netlify**_](https://netlify.com/)</p>**
 
